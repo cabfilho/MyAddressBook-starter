@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:17:1-39:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\2286839e7d8b3ade36ee4231bee41588\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\da2bccb84159d261509426d98a31e8d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7c504c68852fac27f77ae65412794f70\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\f37bda42b62d410c819356511a19d52a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\fa34c3af9d1adb5570978624f67f8a0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\a4161b47c7e1b352fa31bf8e87229a04\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\80072d425495e62920b872145d35a5c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\849a6c332265486ee3313f30e6a8f828\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\41c1656d7cc2f513f31c45e490199082\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\b8dfcf8ef4cf611a7e138b5b7d436d41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\75bbfd82e60fb50770f87451cb419fc0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\ba13d2a58659e831002259e9c2b30c6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\7851b193e0726821e8ca60eaa69830b3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ef0694beaf5646e4cbc21107e1ac8a99\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4a8f32cc0787ac0b2ac65d880e4b7c36\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\72b48823c91c298aacef136327c85e3e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a2580f0891501170fdfb3386e88d02f5\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:17:1-39:12
+	package
+		ADDED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:18:5-48
+		INJECTED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:17:1-39:12
+		INJECTED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:17:1-39:12
+		INJECTED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:20:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7c504c68852fac27f77ae65412794f70\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7c504c68852fac27f77ae65412794f70\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:24:9-54
+	android:icon
+		ADDED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:26:9-40
+activity#com.example.android.myaddressbook.ContactsActivity
+ADDED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:29:13-45
+	android:theme
+		ADDED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:28:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\2286839e7d8b3ade36ee4231bee41588\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\2286839e7d8b3ade36ee4231bee41588\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\da2bccb84159d261509426d98a31e8d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\da2bccb84159d261509426d98a31e8d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7c504c68852fac27f77ae65412794f70\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7c504c68852fac27f77ae65412794f70\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\f37bda42b62d410c819356511a19d52a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\f37bda42b62d410c819356511a19d52a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\fa34c3af9d1adb5570978624f67f8a0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\fa34c3af9d1adb5570978624f67f8a0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\a4161b47c7e1b352fa31bf8e87229a04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\a4161b47c7e1b352fa31bf8e87229a04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\80072d425495e62920b872145d35a5c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\80072d425495e62920b872145d35a5c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\849a6c332265486ee3313f30e6a8f828\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\849a6c332265486ee3313f30e6a8f828\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\41c1656d7cc2f513f31c45e490199082\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\41c1656d7cc2f513f31c45e490199082\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\b8dfcf8ef4cf611a7e138b5b7d436d41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\b8dfcf8ef4cf611a7e138b5b7d436d41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\75bbfd82e60fb50770f87451cb419fc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\75bbfd82e60fb50770f87451cb419fc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\ba13d2a58659e831002259e9c2b30c6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\ba13d2a58659e831002259e9c2b30c6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\7851b193e0726821e8ca60eaa69830b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\7851b193e0726821e8ca60eaa69830b3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ef0694beaf5646e4cbc21107e1ac8a99\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ef0694beaf5646e4cbc21107e1ac8a99\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4a8f32cc0787ac0b2ac65d880e4b7c36\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4a8f32cc0787ac0b2ac65d880e4b7c36\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\72b48823c91c298aacef136327c85e3e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\72b48823c91c298aacef136327c85e3e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a2580f0891501170fdfb3386e88d02f5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Caixa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a2580f0891501170fdfb3386e88d02f5\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Caixa\Downloads\MyAddressBook-starter\app\src\main\AndroidManifest.xml
